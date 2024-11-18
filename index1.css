@@ -1,0 +1,281 @@
+.div1{
+    background-color: black;
+    height:120px;
+    width:200px;
+    border:solid black;
+    border-top-right-radius:400px;
+    border-top-left-radius: 400px
+}
+.div2{
+ background-color: black;
+ border:solid black ;
+ border: dotted white;
+ width: 450px;
+ height: 60px;
+ padding: 2px;
+ border-top-right-radius:100px;
+ margin-left:100px;
+ border-top-left-radius:60px;
+ border-bottom-left-radius:20px ;
+}
+.div3{ 
+    background-color: black;
+    border: solid black;
+    padding: 2px;
+    width: 200px;
+    height:70px;
+    border-bottom-left-radius:130px;
+    border-bottom-right-radius: 130px;
+    
+}
+.div4{
+    padding:2px;
+    border:solid black;
+    width:36px;
+    background-color: white;
+    margin-top:-220px;
+
+}
+.div5{
+    padding-bottom:4px;
+    border:solid black;
+    width: 42px;
+    background-color: white;
+}
+.div6{
+    padding-bottom: 4px;
+    border:solid black;
+    width: 42px;
+    background-color: white;
+}
+.div7{
+    padding-bottom:400px;
+    margin-bottom:10px;
+    margin-top:-150px;
+    margin-left:70px;
+    margin-right:-10px ;
+    border: solid black;
+}
+.div8{
+    background-color: black;
+    border: solid black;
+    width:300px;
+    height:100px;
+    padding-top:10px;
+    margin-top:-90px;
+    border-top-left-radius: 90px;
+    border-top-right-radius: 90px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    margin-bottom:250px;
+}
+
+.list1{
+    background-color:orange ;
+      border: 3px solid black;
+      width: 160px;
+      height:30px ;
+      margin-left:-180px;
+    }
+    .list2{
+     border: 3px solid black;
+     width: 160px;
+     height:30px ;
+     margin-left:-180px;
+    }
+    .list3{
+      background-color: green;
+      border: 3px solid black;
+      width: 160px;
+      height: 30px;
+      margin-top: 30px;
+      margin-left: -3px;
+     }
+     .list4{
+      background-color:black;
+      border: solid black;
+      height: 250px;
+      width:1px;
+      margin-left:-155px;
+     } 
+     .list5{
+      background-color: blue;
+        border: solid white;
+        width:30px;
+        height: 30px;
+        border-radius:50px ;
+        margin-top: -325px;
+        margin-left: 5px;
+     }
+     .list6{
+      background-color: orange;
+      border: 2px solid black;
+      width: 100px;
+      height: 30px;
+      margin-top: 290px;
+      margin-left:-150px ;
+      border-top-left-radius: 25px;
+      border-top-right-radius: 25px;
+     }
+     .list7{
+      border:2px solid black;
+      width: 150px;
+      height: 30px;
+      margin-left:-150px;
+      border-top-left-radius: 25px;
+      border-top-right-radius: 25px;
+     }
+     .list8{
+      background-color:green ;
+     border: 2px solid black;
+     width: 200px;
+     height:30px ;
+     margin-left:-150px ;
+     border-top-left-radius: 25px;
+     border-top-right-radius: 25px;
+     }
+     .h1{
+      margin-left:150px ;
+      width: 400px;
+      margin-right:-40px;
+     }
+     body{
+      background-color: aquamarine;
+     }
+
+
+
+
+
+     
+     .h1:hover{
+        background-color: red;
+        margin-left:-300px;
+     }
+    .p1{
+        border:3px solid white ;
+        width: 70px;
+        height: 190px;
+        background-color:black;
+        margin-left:-200px ;
+        margin-top:100px ;
+        border-radius:50px;
+    }
+    .p2{
+        border: 3px solid white;
+        width:30px;
+        height:30px ;
+        margin-left:-200px;
+        border-radius:100px;
+        margin-top:-180px;
+    }
+    .p2:hover{
+        background-color: red;
+        font-size:3px ;
+    }
+    .p3{
+        border: 3px solid orangered;
+        width: 30px;
+        height: 30px;
+        margin-left:-200px;
+        margin-top:20px ;
+        border-radius:100px;
+    }
+    .p4{
+        border: 3px solid green;
+        width: 30px;
+        height: 30px;
+        margin-left:-200px;
+        margin-top: 20px;
+        border-radius:50px ;
+    }
+    .p4:hover{
+        background-color: green;
+        font-size: 3px;
+    }
+    .p3:hover{
+        background-color: yellow;
+        font-size: 2px;
+    }
+    .p5{
+        border: solid black;
+        width: 2px;
+        height:150px;
+        margin-left:-195px;
+        background-color: black;
+    }
+    .p6{
+        border: 3px solid black;
+        width: 25px;
+        height: 15px;
+        background-color: black;
+        margin-top:-280px;
+        margin-left:-300px ;
+        border-bottom-left-radius: 20px;
+    }
+    .p7{
+        border:3px solid black ;
+        width: 25px;
+        height:15px;
+        background-color: black;
+        margin-top:10px;
+        margin-left:-300px ;
+        border-bottom-left-radius: 20px;
+    }
+    .p8{
+        border:3px solid black ;
+        width:25px ;
+        height:15px ;
+        background-color: black;
+        margin-top: 10px;
+        margin-left:-300px;
+        border-bottom-left-radius: 20px;
+    }
+    .p9{
+        border: 3px solid black;
+        width: 30px;
+        height: 15px;
+        background-color: black;
+        margin-left:-100px;
+        border-bottom-right-radius: 20px;
+        margin-top:-85px;
+    }
+    .p10{
+        border:2px solid black ;
+        width: 30px;
+        height:15px;
+        margin-left:10px;
+        margin-right:280px;
+        margin-top:12px;
+        background-color: black;
+        border-bottom-right-radius:20px ;
+    }
+    .p11{
+        border: solid black;
+        width: 25px;
+        height: 15px;
+        background-color: black;
+        margin-left:-100px;
+        margin-top:12px ;
+        border-bottom-right-radius:20px ;
+    }
+    .p12{
+        border: solid black;
+        width: 100px;
+        height: 20px;
+        margin-top:190px;
+        margin-left:-195px;
+        background-color: black;
+        border-radius: 20px;
+    }
+    .h1{
+        margin-left: -330px;
+        margin-top:30px;
+    }
+    
+  
+  
+   
+
+
+
